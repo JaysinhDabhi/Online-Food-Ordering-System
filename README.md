@@ -5,7 +5,7 @@
 - We can order food online and we get them to our home or another place what we want.
 - For that we build platform for order online using a website.
 
-# HOW To INSTALL FILE ON LAPTOP/PC
+# HOW TO INSTALL FILE ON LAPTOP/PC
 
 Step-1 Download the all file for the given on this page
 
